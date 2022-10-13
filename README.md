@@ -1,7 +1,12 @@
 # Cathy Wyse - Data Science Projects
 I am a postdoctoral researcher working on chronobiology - the study of biological timing.  My work focuses on the implications of seasonal and circadian rhythms for the health and wellbring of humnans and animals.  I am passionate about data science and how data can drive societal change to address global issues as well as tell the stories of people living with disease or experiencing inquality.  The Sustainable Development Goals (link) are always in mind in both my personal and professional lives.
 
+
 This is a repository to showcase some of the projects and data that I have had the priveldge of working on. 
+
+
+[Publications](#-publications)
+
 
 - [1. Publications](#-publications)
   * [1.1 Purpose](##-sleep_spirals)
