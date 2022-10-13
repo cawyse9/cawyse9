@@ -3,7 +3,7 @@ I am a postdoctoral researcher working on chronobiology - the study of biologica
 
 This is a repository to showcase some of the projects and data that I have had the priveldge of working on. 
 
-- [1. Epidemiology](#-epidemiology)
+- [1. Publications](#-publications)
   * [1.1 Purpose](##-sleep_spirals)
   * [1.2 Scope](#12-scope)
   * [1.3 Acronyms](#13-acronyms)
