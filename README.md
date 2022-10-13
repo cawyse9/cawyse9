@@ -1,6 +1,10 @@
 ### hi
 
 
+## Technology and Tools
+
+## Publications
+
 ### Hi there 👋
 
 <!--
