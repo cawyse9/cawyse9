@@ -1,3 +1,14 @@
+![image](https://user-images.githubusercontent.com/29300100/197231492-4889d883-78b3-429e-8a7d-95c9d79dbcac.png)
+![image](https://user-images.githubusercontent.com/29300100/197232465-57326812-c0d5-4ecf-8f3a-d4395d8262bc.png)
+
+
+![image](https://user-images.githubusercontent.com/29300100/197235312-5629480d-1262-4ad7-8e68-cf34003d68c6.png)
+![image](https://user-images.githubusercontent.com/29300100/197235388-0368e16b-adfb-4afb-88bf-8c8a0dfb3941.png)
+
+![image](https://user-images.githubusercontent.com/29300100/197235562-bd9ca48e-bd35-45b5-a979-13e61dc7bea9.png)
+
+
+
 # Cathy Wyse - Data Science Projects
 I am a postdoctoral researcher working on chronobiology - the study of biological timing.  My work focuses on the implications of seasonal and circadian rhythms for the health and wellbring of humnans and animals.  I am passionate about data science and how data can drive societal change to address global issues as well as tell the stories of people living with disease or experiencing inquality.  The Sustainable Development Goals (link) are always in mind in both my personal and professional lives.
 
