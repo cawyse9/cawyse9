@@ -1,20 +1,14 @@
-![image](https://user-images.githubusercontent.com/29300100/197231492-4889d883-78b3-429e-8a7d-95c9d79dbcac.png)
-![image](https://user-images.githubusercontent.com/29300100/197232465-57326812-c0d5-4ecf-8f3a-d4395d8262bc.png)
-
-
-![image](https://user-images.githubusercontent.com/29300100/197235312-5629480d-1262-4ad7-8e68-cf34003d68c6.png)
-![image](https://user-images.githubusercontent.com/29300100/197235388-0368e16b-adfb-4afb-88bf-8c8a0dfb3941.png)
-
 ![image](https://user-images.githubusercontent.com/29300100/197235833-2a4fc1a8-3a6f-42da-8756-10c7fe6e38a3.png)
 
-
-
 # Cathy Wyse - Data Science Projects
-I am a postdoctoral researcher working on chronobiology - the study of biological timing.  My work focuses on the implications of seasonal and circadian rhythms for the health and wellbring of humnans and animals.  I am passionate about data science and how data can drive societal change to address global issues as well as tell the stories of people living with disease or experiencing inquality.  The Sustainable Development Goals (link) are always in mind in both my personal and professional lives.
-
 This is a repository to showcase some of the projects and data that I have had the priveldge of working on. 
 
-
+Programming Languages  R  Python C++ VBA
+    MS Office Stata Minitab GitHub SAS SPSS
+    Jupyter  RStudio  Numpy  Pandas  dplyr  ggplot2  lubridate
+    
+ ArcGIS QGIS
+  ImageJ  FIJI   Huygens
 [Publications](#-publications)
 
 
