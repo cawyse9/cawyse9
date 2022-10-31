@@ -1,17 +1,24 @@
 <w align="right">
-<img src="https://user-images.githubusercontent.com/29300100/197235833-2a4fc1a8-3a6f-42da-8756-10c7fe6e38a3.png" width="150"/>
+<img src="https://user-images.githubusercontent.com/29300100/197235833-2a4fc1a8-3a6f-42da-8756-10c7fe6e38a3.png" align="right" width="150"/>
 <w>
 <h1 align="left">Cathy Wyse</h1>
-<h3 align="left">Circadian and seasonal rhythms, sensors and data science, global goals</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cawyse9&label=Profile%20views&color=0e75b6&style=flat" alt="cawyse9" /> </p>
+&nbsp
+&nbsp
+<h3 align="left">Circadian and seasonal rhythms, sensors, data science, global goals</h3>  
+&nbsp  
+  
+🔭 Currently working on [FamilySleeps](https://www.familygenomics.maynoothuniversity.ie/family-sleeps)
 
-- 🔭 Currently working on [FamilySleeps](https://www.familygenomics.maynoothuniversity.ie/family-sleeps)
-
-- 👨‍💻 Publications [https://github.com/cawyse9/Publications](https://github.com/cawyse9/Publications)
-
+👨‍💻 Publications [https://github.com/cawyse9/Publications](https://github.com/cawyse9/Publications)  
+  
+<f>
+&nbsp
+<f>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-**cawyse9@gmail.com**
+cawyse9@gmail.com
+  <p>
+&nbsp
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
