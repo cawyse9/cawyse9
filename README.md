@@ -3,7 +3,7 @@
 <w>
 <h1 align="left">Cathy Wyse</h1>
 &nbsp
-&nbsp
+
 <h3 align="left">Circadian rhythms, seasonality, sensors, data science, global goals</h3>  
 &nbsp  
   
