@@ -1,9 +1,10 @@
+<!---
 <w align="right">
 <img src="https://user-images.githubusercontent.com/29300100/197235833-2a4fc1a8-3a6f-42da-8756-10c7fe6e38a3.png" align="right" width="150"/>
 <w>
 <h1 align="left">Cathy Wyse</h1>
 &nbsp
-
+-->
 <h3 align="left">Circadian rhythms, seasonality, sensors, data science, global goals</h3>  
 &nbsp  
   
