@@ -5,7 +5,7 @@
 <h1 align="left">Cathy Wyse</h1>
 &nbsp
 -->
-<h3 align="left">Circadian rhythms, seasonality, sensors, data science, global goals</h3>  
+<h3 align="left">Circadian rhythms, seasonality, sensors, data science</h3>  
 &nbsp  
   
 🔭 Currently working on [FamilySleeps](https://www.familygenomics.maynoothuniversity.ie/family-sleeps)
