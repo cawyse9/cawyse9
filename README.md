@@ -34,5 +34,7 @@ cawyse9@gmail.com
 
 <img src="https://user-images.githubusercontent.com/29300100/199028706-66bc9c6b-2c48-40c9-8bd5-ad6c8969673a.png" width="45" />
 
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" width="45" />
+          
+
 
