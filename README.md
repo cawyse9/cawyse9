@@ -5,12 +5,10 @@
 <h1 align="left">Cathy Wyse</h1>
 &nbsp
 -->
-<h3 align="left">Circadian rhythms, seasonality, mental health, data science</h3>  
+<h3 align="left">Data Science, Chronobiology, Mental Health</h3>  
 &nbsp  
   
-🔭 Currently working on [FamilySleeps](https://www.familygenomics.maynoothuniversity.ie/family-sleeps)
-
-👨‍💻 Publications [https://github.com/cawyse9/Publications](https://github.com/cawyse9/Publications)  
+🔭 Currently working on [Ambient-BD]([https://www.familygenomics.maynoothuniversity.ie/family-sleeps](https://www.ambientbd.com/)) [FamilySleeps](https://www.familygenomics.maynoothuniversity.ie/family-sleeps)
   
 <f>
 &nbsp
