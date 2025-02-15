@@ -8,7 +8,8 @@
 <h3 align="left">Data Science, Chronobiology, Mental Health</h3>  
 &nbsp  
   
-🔭 Currently working on [Ambient-BD]([https://www.familygenomics.maynoothuniversity.ie/family-sleeps](https://www.ambientbd.com/)) [FamilySleeps](https://www.familygenomics.maynoothuniversity.ie/family-sleeps)
+🔭 Currently working on 
+[Ambient-BD](https://www.ambientbd.com/)  |  [FamilySleeps](https://www.familygenomics.maynoothuniversity.ie/family-sleeps)
   
 <f>
 &nbsp
